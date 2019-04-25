@@ -1,32 +1,26 @@
-# Prerequisites
-*.d
+# Visual Studio
+/.vs/*
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# MLNetWrapper
+/MLNetWrapper/bin/*
+/MLNetWrapper/obj/*
 
-# Precompiled Headers
-*.gch
-*.pch
+# FactoryModel
+/FactoryModel/bin/*
+/FactoryModel/obj/*
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# SentimentModel
+/SentimentModel/bin/*
+/SentimentModel/obj/*
 
-# Fortran module files
-*.mod
-*.smod
+# LocalApplication
+/LocalApplication/bin/*
+/LocalApplication/obj/*
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# ServerlessFunction
+/ServerlessFunction/bin/*
+/ServerlessFunction/obj/*
 
-# Executables
-*.exe
-*.out
-*.app
+# WebApi
+/WebApi/bin/*
+/WebApi/obj/*

@@ -1,0 +1,22 @@
+﻿########################################################################
+Creating the project / Docker File
+########################################################################
+https://medium.com/@ljquintanilla/deploying-net-machine-learning-models-with-ml-net-asp-net-core-docker-and-azure-624cb4b4dfc3
+- How to set up the project/etc
+- New Project 
+	Web Application
+	.NET Core / ASP.NET Core 2.1	
+	Choose API
+	Enable Docker (Windows) [gives you a docker file]
+
+
+https://docs.microsoft.com/en-us/dotnet/core/docker/build-container
+
+########################################################################
+Set up an Azure Container Registry
+########################################################################
+docker login [registryurl] -u [registryname] -p [registryaccesstoken]
+
+Admin:   Enable Admin Access
+If enabled, you can use the registry name as username and admin user access key as password to 
+docker login to your container registry.
