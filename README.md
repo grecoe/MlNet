@@ -1,4 +1,6 @@
 # MlNet
+<sub> Author: Daniel Grecoe, a Microsoft employee.</sub>
+
 This repo has an example of using ML.NET (v0.11.0) in a multitude of ways. Open the main SLN file using VS 2017.
 
 ML.NET is a great way for .NET developers to get thier hands dirty with machine learning (ML) in general, but to use smaller models (not deep learning) that can be easily consumed in various ways. 
